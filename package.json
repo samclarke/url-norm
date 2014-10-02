@@ -1,0 +1,31 @@
+{
+  "name": "url-norm",
+  "version": "1.0.0",
+  "description": "URL normalizer",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samclarke/url-norm.git"
+  },
+  "keywords": [
+    "URL",
+    "normalisation",
+    "normalization"
+  ],
+  "author": "Sam Clarke <sam@samclarke.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samclarke/url-norm/issues"
+  },
+  "homepage": "https://github.com/samclarke/url-norm",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^1.21.4"
+  }
+}
